@@ -1,0 +1,1 @@
+A simple java code to calculate solid angle value by means of MC method. The plot of (x,y) points is generated and the variation of MC value vs sample size is performed.
